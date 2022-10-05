@@ -31,5 +31,5 @@
 [<img align="left" alt="oluwoleokunola | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/oluwole-okunola
-[github]: https://OluwoleOkunola.github.io
+[github]: https://github.com/OluwoleOkunola
 
