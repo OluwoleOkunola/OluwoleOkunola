@@ -4,9 +4,9 @@
 
 - Operation Wounded Bear
 - Operation Arctic Cobra
-- Operation Gortherd
-- Operation Bear Treat
 - Operation Ocean View
+- Operation Bear Treat
+- Operation Goatherd
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
 
 - <b>PowerShell</b>
