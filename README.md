@@ -21,9 +21,8 @@
 
 - [NexGenT Cybersecurity Specialist] https://learn.nexgent.com/certs-and-awards
 
-- [NexGenT Cybersecurity Professional NCSP] (https://www.linkedin.com/in/oluwole-okunola/details/featured/1635465310850/single-media-viewer?type=DOCUMENT&profileId=ACoAADWVgTsBvAliH4cwuu-Sp0iC9oUAmYq7u6A&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_featured_details%3BmvhvvhpgQkWLrbEzO37ZKA%3D%3D)
-
-- [NexGenT Cybersecurity Associate NCSA] (https://www.linkedin.com/in/oluwole-okunola/details/featured/1635461100849/single-media-viewer?type=DOCUMENT&profileId=ACoAADWVgTsBvAliH4cwuu-Sp0iC9oUAmYq7u6A&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_featured_details%3BmvhvvhpgQkWLrbEzO37ZKA%3D%3D)- 
+- [NexGenT Cybersecurity Professional NCSP] https://learn.nexgent.com/certs-and-awards
+- [NexGenT Cybersecurity Associate NCSA] https://learn.nexgent.com/certs-and-awards 
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 
 <h2> 🤳 Connect with me:</h2>
