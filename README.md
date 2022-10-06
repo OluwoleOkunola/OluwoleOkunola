@@ -19,7 +19,7 @@
 
 - [Security+] https://www.credly.com/badges/1b75b6b4-bb81-4581-9509-a3ed25420bb2
 
-- [NexGenT Cybersecurity Specialist] https://learn.nexgent.com/certs-and-awards
+- [NexGenT Cybersecurity Specialist] https://www.linkedin.com/in/oluwole-okunola/details/featured/1635478149849/single-media-viewer/
 
 - [NexGenT Cybersecurity Professional NCSP] https://learn.nexgent.com/certs-and-awards
 - [NexGenT Cybersecurity Associate NCSA] https://learn.nexgent.com/certs-and-awards 
