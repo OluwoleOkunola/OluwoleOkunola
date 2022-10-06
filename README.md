@@ -17,7 +17,7 @@
 
 <h2> Certifications</h2>
 
-- [Security+] https://www.credly.com/earner/earned/badge/1b75b6b4-bb81-4581-9509-a3ed25420bb2
+- [Security+] https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png
 
 - [NexGenT Cybersecurity Specialist] (https://www.linkedin.com/in/oluwole-okunola/details/featured/1635478149849/single-media-viewer?type=DOCUMENT&profileId=ACoAADWVgTsBvAliH4cwuu-Sp0iC9oUAmYq7u6A&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_featured_details%3BmvhvvhpgQkWLrbEzO37ZKA%3D%3D)
 
