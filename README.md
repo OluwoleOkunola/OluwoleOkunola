@@ -9,10 +9,7 @@
 - Operation Goatherd
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
 
-- <b>PowerShell</b>
-- [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-- [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-- [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 
 
