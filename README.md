@@ -10,8 +10,6 @@
 
 
 
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-
 
 <h2> Certifications</h2>
 
