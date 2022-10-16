@@ -7,7 +7,7 @@
 - Operation Ocean View
 - Operation Bear Treat
 - Operation Goatherd
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+
 
 
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
