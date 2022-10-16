@@ -17,7 +17,7 @@
 
 - [NexGenT Cybersecurity Specialist] https://user-resources.nexgent.com/65733/program_completion_certificates/6/1635958844046.pdf
 - [NexGenT Cybersecurity Professional NCSP] https://user-resources.nexgent.com/65733/certifications/4/1628006066594.pdf
-- [NexGenT Cybersecurity Associate NCSA] https://learn.nexgent.com/certs-and-awards 
+- [NexGenT Cybersecurity Associate NCSA] https://user-resources.nexgent.com/65733/certifications/2/1624370322791.pdf
 - [NexGenT Introduction to Network Engineering] https://user-resources.nexgent.com/65733/achievements/certificates/1204.png
 
 
